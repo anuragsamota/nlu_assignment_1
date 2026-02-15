@@ -38,6 +38,3 @@ Open the notebook in [prob4/Q4.ipynb](prob4/Q4.ipynb) and run the single code ce
 - The dataset is from 20 Newsgroups and may not reflect modern news or social media.
 - Models use lexical features only; they do not capture deep semantics.
 - Linear SVM showed a convergence warning for bigrams; increasing iterations may help.
-
-## Author
-M25CSE007
